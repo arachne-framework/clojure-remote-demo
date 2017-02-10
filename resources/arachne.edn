@@ -1,0 +1,5 @@
+[{:arachne/name :myorg/my-project
+  :arachne/inits ["config/my_project.clj"]
+  :arachne/schema myorg.my-project.schema/schema
+  :arachne/dependencies [:org.arachne-framework/pedestal-assets
+                         :org.arachne-framework/arachne-figwheel]}]
